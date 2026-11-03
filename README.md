@@ -1,3 +1,5 @@
+**Study (homework) repository created with Code Institute's learning materials and step-by-step instructions.**
+
 Example README structure:
 
 # Coding Club
